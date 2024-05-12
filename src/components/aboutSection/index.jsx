@@ -1,38 +1,25 @@
 function AboutSection() {
     return <>
-         <section class="about full-screen d-lg-flex justify-content-center align-items-center" id="about">
-        <div class="container">
+         <div class="container">
             <div class="row">
-                
-                <div class="col-lg-7 col-md-12 col-12 d-flex align-items-center">
-                    <div class="about-text">
-                        <small class="small-text">Welcome to <span class="mobile-block">my portfolio website!</span></small>
-                        <h1 class="animated animated-text">
-                            <span class="mr-2">Hey folks, I'm</span>
-                                <div class="animated-info">
-                                    <span class="animated-item">Rasmi Roy</span>
-                                    <span class="animated-item">Full Stack Developer</span>
-                                    
+                <div class="col-xs-12">
+                    <div class="card">
+                        <div class="card-block">
+                            <h2>About me</h2>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <p><img src="/images/profile-pic.jpg" class="img-responsive" alt=""/></p>
                                 </div>
-                        </h1>
-
-                        <p>Building a successful product is a challenge. I am highly energetic in user experience design, interfaces and web development.</p>
-                        
-                        <div class="custom-btn-group mt-4">
-                          <a href="#" class="btn mr-lg-2 custom-btn"><i class='uil uil-file-alt'></i> Download Resume</a>
+                                <div class="col-md-8">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-
-                <div class="col-lg-5 col-md-12 col-12">
-                    <div class="about-image svg">
-                        <img src="images/undraw/undraw_software_engineer_lvl5.svg" class="img-fluid" alt="svg image"/>
-                    </div>
-                </div>
-
             </div>
         </div>
-    </section>
     </>
 }
 

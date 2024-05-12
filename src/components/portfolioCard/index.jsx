@@ -1,8 +1,8 @@
-function PortfolioCard() {
+function PortfolioCard({project}) {
     return <>
         <div class="item">
             <div class="project-info">
-                <img src="images/project/project-image02.png" class="img-fluid" alt="project image"/>
+                <img src={project.image}/>
             </div>
         </div>
     </>

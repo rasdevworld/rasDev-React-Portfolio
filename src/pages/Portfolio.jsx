@@ -1,10 +1,14 @@
 import PortfolioContainer from "../components/portfolioContainer"
 import PortfolioCard from "../components/portfolioCard"
+import projects from '../assets/data/project.json'
 
 function Portfolio() {
     return <>
         <PortfolioContainer>
-            <PortfolioCard></PortfolioCard>
+            {projects.map(project=>{
+                return <PortfolioCard project={project}/>
+            })}
+            
         </PortfolioContainer>
     </>
 }

@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import './assets/sass/tooplate-style.scss'
 import NavBar from './components/navbarSection'
+import Header from './components/headerSection'
 //import About from './components/about'
 import About from './pages/About'
 import Portfolio from './pages/Portfolio'
@@ -39,7 +40,9 @@ function App() {
   return (
     <>
     <NavBar currentPage={currentPage} handlePageChange={handlePageChange}/>
+    <Header/>
     {renderPage()}
+   
     
     </>
   )
