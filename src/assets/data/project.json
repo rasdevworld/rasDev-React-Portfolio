@@ -1,37 +1,37 @@
 [
     {
         "title" : "Workday Scheduler",
-        "image" : "https://placehold.co/400",
+        "image" : "/images/workday-scheduler.png",
         "liveLink" : "https://rasdevworld.github.io/rasDevs-Challenge5-Workday-Scheduler/",
         "githubLink" : "https://github.com/rasdevworld/rasDevs-Challenge5-Workday-Scheduler"
     },
     {
         "title" : "Tech Blog",
-        "image" : "https://placehold.co/400",
+        "image" : "/images/techblog.png",
         "liveLink" : "https://techblog-rasdev-3b84330adce3.herokuapp.com/",
         "githubLink" : "https://github.com/rasdevworld/rasDev-techblog"
     },
     {
         "title" : "Weather Forecast",
-        "image" : "https://placehold.co/400",
+        "image" : "/images/weather-forecast.png",
         "liveLink" : "https://rasdevworld.github.io/rasDev-Challenge6-Weather-Forecast/",
         "githubLink" : "https://github.com/rasdevworld/rasDev-Challenge6-Weather-Forecast"
     },
     {
         "title" : "film Fetcher",
-        "image" : "https://placehold.co/400",
-        "liveLink" : "https://jdmonticelli.github.io/filmfetcher/",
+        "image" : "/images/filmfetcher.png",
+        "liveLink" : "https://dantean.github.io/The-Film-Fetcher/",
         "githubLink" : "https://github.com/rasdevworld/filmfetcher"
     },
     {
         "title" : "ShiftSaavy",
-        "image" : "https://placehold.co/400",
+        "image" : "/images/shiftsaavy.png",
         "liveLink" : "https://shiftsaavy-9764987c968b.herokuapp.com/",
         "githubLink" : "https://github.com/Thecodebarbie/shiftsaavy-app"
     },
     {
         "title" : "PWA Text Editor",
-        "image" : "https://placehold.co/400",
+        "image" : "/images/pwa-texteditor.png",
         "liveLink" : "https://rasdev-pwa-text-editor.onrender.com/",
         "githubLink" : "https://github.com/rasdevworld/rasDev-PWA-Text-Editor"
     }

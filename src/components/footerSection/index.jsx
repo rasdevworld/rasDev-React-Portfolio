@@ -5,7 +5,7 @@ function FooterSection() {
                 <div class="row">
                     <div class="col-xs-12">
                         <p><img src="./assets/images/mashup-icon.svg" alt=""/></p>
-                        <p>©All right reserved. Design by Rasmi Roy</p>
+                        <p>©All right reserved @2024. Design by Rasmi Roy</p>
                         <p>
                             <a class="fa-icon fa-icon-2x" href="https://facebook.com/" title="">
                                 <i class="fa fa-facebook"></i>
