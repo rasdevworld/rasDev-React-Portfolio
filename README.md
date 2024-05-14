@@ -44,7 +44,7 @@ MIT License - The License file is provided here : (./LICENSE)
 
 ## Screenshot
 
-
+![alt text](public/images/React-Portfolio.png)
 
 ## Deployed page and Github Repository
 
