@@ -10,19 +10,13 @@ function FooterSection() {
                             <a class="fa-icon fa-icon-2x" href="https://facebook.com/" title="">
                                 <i class="fa fa-facebook"></i>
                             </a>
-                            <a class="fa-icon fa-icon-2x" href="https://twitter.com/" title="">
-                                <i class="fa fa-twitter"></i>
+                            <a class="fa-icon fa-icon-2x" href="https://www.instagram.com/rasmiroy6789/" title="">
+                                <i class="fa fa-instagram"></i>
                             </a>
-                            <a class="fa-icon fa-icon-2x" href="https://dribbble.com/" title="">
-                                <i class="fa fa-dribbble"></i>
-                            </a>
-                            <a class="fa-icon fa-icon-2x" href="https://www.linkedin.com/" title="">
+                            <a class="fa-icon fa-icon-2x" href="https://www.linkedin.com/in/rasmi-roy-0045b758/" title="">
                                 <i class="fa fa-linkedin"></i>
                             </a>
-                            <a class="fa-icon fa-icon-2x" href="https://vimeo.com/" title="">
-                                <i class="fa fa-vimeo"></i>
-                            </a>
-                            <a class="fa-icon fa-icon-2x" href="https://vimeo.com/" title="">
+                            <a class="fa-icon fa-icon-2x" href="https://github.com/rasdevworld" title="">
                                 <i class="fa fa-github"></i>
                             </a>
                         </p>

@@ -11,9 +11,11 @@ function AboutSection() {
                                     <p><img src="/images/profile-pic-bw.jpg" class="img-responsive" alt=""/></p>
                                 </div>
                                 <div class="col-md-8">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                    <p>Motivated and experienced software developer eager to resume my career after dedicating the past few years to family. Committed to re-entering the workforce on a full-time basis and bringing my skills and expertise to contribute effectively to a dynamic team.</p>
+                                    <p> Highly skilled and motivated individual with a strong background in web development and programming. Proficient in React, JavaScript, HTML, and CSS. Experienced in building responsive and user-friendly web applications. Detail-oriented and passionate about creating clean and efficient code. Effective communicator and team player with a proven track record of delivering high-quality projects within deadlines.</p>
+                                    <p><img src="/images/signature.png"></img></p>
                                 </div>
+                                
                             </div>
                         </div>
                     </div>
