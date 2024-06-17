@@ -25,9 +25,9 @@
     },
     {
         "title" : "ShiftSaavy",
-        "image" : "/images/shiftsaavy.png",
-        "liveLink" : "https://shiftsaavy-9764987c968b.herokuapp.com/",
-        "githubLink" : "https://github.com/Thecodebarbie/shiftsaavy-app"
+        "image" : "/images/shiftsaavy2.png",
+        "liveLink" : "https://shift-saavy-2-0.onrender.com",
+        "githubLink" : "https://github.com/rasdevworld/Shift-Saavy-2.0"
     },
     {
         "title" : "PWA Text Editor",
